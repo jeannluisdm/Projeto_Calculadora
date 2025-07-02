@@ -19,6 +19,7 @@ Python
 Kivy – framework para desenvolvimento de aplicações GUI multiplataforma
 
 - Como executar
+
 Clone este repositório:
 
 ```bash
