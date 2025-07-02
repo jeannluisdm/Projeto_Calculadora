@@ -21,6 +21,5 @@ Kivy – framework para desenvolvimento de aplicações GUI multiplataforma
 - Como executar
 Clone este repositório:
 
-git clone https://github.com/jeannluisdm/Projetos_Kivy
-
-cd projetos_kivy
+- git clone https://github.com/jeannluisdm/Projetos_Kivy
+- cd projetos_kivy
