@@ -1,4 +1,5 @@
-Calculadora com Kivy
+- Calculadora com Kivy
+  
 Este projeto é uma calculadora simples desenvolvida com o framework Kivy em Python. A interface gráfica permite realizar operações básicas como adição, subtração, multiplicação e divisão.
 
 - Funcionalidades
